@@ -1,3 +1,5 @@
+https://towardsdatascience.com/simple-text-generation-d1c93f43f340
+
 # Text Generation: Stacked LSTM's to generate text in the style Edgar Allen Poe
 
 **Jeremy Chow**
