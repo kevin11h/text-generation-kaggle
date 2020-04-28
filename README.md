@@ -1,4 +1,6 @@
-https://towardsdatascience.com/simple-text-generation-d1c93f43f340
+# https://towardsdatascience.com/simple-text-generation-d1c93f43f340
+# https://towardsdatascience.com/text-classification-in-keras-part-1-a-simple-reuters-news-classifier-9558d34d01d3
+# https://towardsdatascience.com/text-classification-in-keras-part-2-how-to-use-the-keras-tokenizer-word-representations-fd571674df23
 
 # Text Generation: Stacked LSTM's to generate text in the style Edgar Allen Poe
 
