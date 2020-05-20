@@ -1,3 +1,5 @@
+> It's been awhile so I don't remember the specifics, but I may have used conda forge and conda environments to install tensorflow then keras. I apologize if that's not super helpful
+
 # https://towardsdatascience.com/simple-text-generation-d1c93f43f340
 # https://towardsdatascience.com/text-classification-in-keras-part-1-a-simple-reuters-news-classifier-9558d34d01d3
 # https://towardsdatascience.com/text-classification-in-keras-part-2-how-to-use-the-keras-tokenizer-word-representations-fd571674df23
