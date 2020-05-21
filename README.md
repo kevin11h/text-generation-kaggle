@@ -1,5 +1,21 @@
 > It's been awhile so I don't remember the specifics, but I may have used conda forge and conda environments to install tensorflow then keras. I apologize if that's not super helpful
 
+https://gist.github.com/rexlow/93123f8003e3085d51316ede73c23d6d
+
+bash Miniconda3-latest-MacOSX-x86_64.sh
+
+// append env path
+
+conda install jupyter matplotlib pandas scipy Pillow scikit-learn
+
+conda install -c conda-forge keras tensorflow
+
+// for some reasons tensorflow installed = 1.0.0, update here
+
+conda update -f -c conda-forge tensorflow
+
+conda install -c conda-forge opencv
+
 # https://towardsdatascience.com/simple-text-generation-d1c93f43f340
 # https://towardsdatascience.com/text-classification-in-keras-part-1-a-simple-reuters-news-classifier-9558d34d01d3
 # https://towardsdatascience.com/text-classification-in-keras-part-2-how-to-use-the-keras-tokenizer-word-representations-fd571674df23
